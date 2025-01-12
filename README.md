@@ -1,4 +1,5 @@
 **Airbnb Analysis Dashboard**
+
 **Overview**
 This project provides an interactive and visually intuitive dashboard built in Tableau, which analyzes Airbnb data to uncover key trends and patterns. It is designed to help users explore pricing structures, market distributions, and revenue trends across different locations and property types.
 
@@ -8,7 +9,7 @@ Average Price per Bedroom:
 **Understand how prices vary with the number of bedrooms.**
 Helps in identifying cost-effectiveness for different property sizes.
 
-Bedroom Listings Distribution:****
+**Bedroom Listings Distribution:**
 Displays the number of Airbnb listings segmented by the number of bedrooms.
 Useful for analyzing market supply trends.
 
